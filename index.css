@@ -336,6 +336,12 @@ body{
     width: 400px;
   }
 
+  #ieum{
+      position: relative;
+      bottom: 4300px;
+      left: 900px;
+  }
+
  
 @keyframes ani{
     0%{transform:translate(0,0);}
