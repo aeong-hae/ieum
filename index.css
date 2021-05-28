@@ -1,0 +1,358 @@
+@font-face {
+    font-family: 'MapoGoldenPier';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoGoldenPierA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+    
+}
+
+body{
+    margin: 0 auto;
+    font-size: 10px;
+    width: 1920px;
+    font-family: 'MapoGoldenPier';
+    user-select: none;
+}
+
+#contents{
+    width: 1920px;
+    height: 3300px;
+    background-color: rgb(255, 255, 255);
+    z-index: -1;
+}
+
+#content01{
+    margin: 0 auto;
+    width: 1920px;
+    height: 5000px;
+    background-color: rgb(255, 255, 255);
+    z-index: -1;
+}
+
+#h1text{
+    position: relative;
+    bottom: 4600px;
+    right: 630px;
+    text-align: center;
+    font-size: 8rem;
+    color: white;
+    z-index: 2;
+}
+
+
+
+#back01{
+    position: relative;
+    bottom: 500px;
+    right: 700px;
+    z-index: 1;
+}
+
+#back02{
+    position: relative;
+    bottom: 3350px;
+    right: 700px;
+    z-index: 0;
+}
+
+#circle001{
+    position: relative;
+    bottom: 4800px;
+    z-index: 5;
+    left: 1500px;
+}
+
+#back03{
+    position: relative;
+    bottom: 4200px;
+    width: 100%;
+}
+
+#explan{
+    position: relative;
+    bottom: 4800px;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+#back04{
+    position: relative;
+    bottom: 6000px;
+    right: 3500px;
+}
+
+#content02{
+    position: relative;
+    bottom: 1800px;
+    left: 300px;
+}
+
+#h2text{
+    font-size: 5rem;
+}
+
+#p02{
+    position: relative;
+    bottom: 190px;
+    left: 800px;
+    font-size: 1.5rem;
+}
+
+#photo01{
+    position: relative;
+    top: 300px;
+}
+
+#mask01{
+    width: 20%;
+    position: relative;
+    right: 200px;
+}
+
+#mask02{
+    width: 40%;
+    position: relative;
+    right: 100px;
+}
+
+#mask03{
+    width: 20%;
+    position: relative;
+}
+
+#ani01{
+    width: 30%;
+    position: relative;
+    top: 180px;
+}
+
+#ani02{
+    width: 15%;
+    position: relative;
+    top: 130px;
+    left: 300px;
+}
+
+#ani03{
+    position: relative;
+    top: 650px;
+    right: 1050px;
+    width: 20%;
+}
+
+#mask04{
+    width: 20%;
+    position: relative;
+    left: 300px;
+    top: 500px;
+    width: 40%;
+}
+
+#ani04{
+    position: relative;
+    top: 100px;
+    left: 350px;
+    width: 20%;
+}
+
+#back05{
+    position: relative;
+    right: 3500px;
+    bottom: 2000px;
+}
+
+#cont03h1{
+    color: white;
+    position: relative;
+    bottom: 5000px;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+#knot01{
+    position: relative;
+    bottom: 4500px;
+    width: 40%;
+    left: 150px;
+}
+
+#knot02{
+    position: relative;
+    bottom: 4600px;
+    width: 40%;
+    left: 200px;
+}
+
+#knot03{
+    position: relative;
+    bottom: 4400px;
+    width: 40%;
+    left: 160px;
+}
+
+#knot04{
+    position: relative;
+    bottom: 4300px;
+    width: 40%;
+    left: 220px;
+}
+
+#cont04h1{
+    position: relative;
+    bottom: 3800px;
+    font-size: 3rem;
+    text-align: center;
+
+}
+
+#sns{
+    position: relative;
+    width: 500px;
+    height: 800px;
+    background-color: tomato;
+    bottom: 3500px;
+    left: 300px;
+}
+
+#snsexplan{
+    position: relative;
+    bottom: 4300px;
+    left: 900px;
+    font-size: 1.5rem;
+    line-height: 200%;
+    font-family: 'MapoGoldenPier';
+}
+
+#snsexplan01{
+    position: relative;
+    bottom: 4100px;
+    left: 900px;
+    font-size: 1.5rem;
+    line-height: 200%;
+    font-family: 'MapoGoldenPier';
+}
+
+#circle002{
+    position: absolute;
+    top: 2000px;
+    left: 200px;
+}
+
+#circle003{
+    position: absolute;
+    top: 2600px;
+    left: 1200px;
+}
+
+#circle004{
+    position: absolute;
+    top: 2400px;
+    left: 1350px;
+}
+
+#circle005{
+    position: absolute;
+    top: 5050px;
+    left: 270px;
+    z-index: -1;
+}
+
+#circle006{
+    position: absolute;
+    top: 6050px;
+    left: 560px;
+}
+
+#circle007{
+    position: absolute;
+    top: 6850px;
+    left: 1360px;
+}
+#circle008{
+    position: absolute;
+    top: 9850px;
+    left: 460px;
+}
+#circle009{
+    position: absolute;
+    top: 10850px;
+    left: 1160px;
+    z-index: -1;
+}
+#circle010{
+    position: absolute;
+    top: 11050px;
+    left: 260px;
+    z-index: -1;
+}
+#circle011{
+    position: absolute;
+    top: 10650px;
+    left: 1380px;
+    z-index: -1;
+}
+#circle012{
+    position: absolute;
+    top: 10450px;
+    left: 970px;
+    z-index: -1;
+}
+
+#inqu{
+    position: relative;
+    bottom: 4200px;
+    left: 1000px;
+    z-index: -1;
+}
+
+
+
+
+
+.circle100 {width: 100px; height: 100px; border-radius: 100px; background-color: rgb(0, 69, 129);}
+.circle50 {width: 50px; height: 50px; border-radius: 50px; background-color: rgb(0, 69, 129);}
+.circle80 {width: 80px; height: 80px; border-radius: 80px; background-color: rgb(0, 69, 129);}
+.dongdong01 { animation:ani 1s infinite alternate; }
+.dongdong02 { animation:ani02 1.5s infinite alternate; }
+.dongdong03 { animation:ani03 2s infinite alternate; }
+.dongdong04 { animation:ani04 1s infinite alternate; }
+
+.input {
+    display: flex;
+    flex-direction: column;
+    outline: none;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+    height: auto;
+    line-height: normal;
+    padding: .8em .5em;
+    font-family: 'MapoGoldenPier';
+    width: 400px;
+  }
+
+ 
+@keyframes ani{
+    0%{transform:translate(0,0);}
+    100%{transform:translate(0,50px);}
+ }  
+@keyframes ani02{
+    0%{transform:translate(0,0);}
+    100%{transform:translate(0,70px);}
+ }  
+@keyframes ani03{
+    0%{transform:translate(0,0);}
+    100%{transform:translate(0,50px);}
+ }  
+@keyframes ani04{
+    0%{transform:translate(0,0);}
+    100%{transform:translate(0,30px);}
+ }  
+
+
+ .wid100{width: 100%;}
